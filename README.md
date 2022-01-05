@@ -1,1 +1,1 @@
-# Rocket-Data-Science
+# Rocket (Data) Science
