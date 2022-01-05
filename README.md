@@ -8,8 +8,8 @@ SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 mill
 
 | ![](images/landing_1.gif) |
 |:--:|
-| **Desirable** |
+| **Desirable - a wonder of modern science** |
 
 | ![](images/crash.gif) |
 | :--:|
-| **Less Desirable** |
+| **Less Desirable - but somehow more watchable** |
